@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: bisque;
+}
+
+label{
+  display: inline-block;
+  width: 100px;
+  
+}
+
+form div{
+  margin: 20px;
+}
+
+.innerLabel{
+  width: auto;
+}
